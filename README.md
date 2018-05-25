@@ -1,6 +1,2 @@
-git init
-　　touch README.md
-　　git add README.md
-　　git commit -m 'first_commit'
-　　git remote add origin https://github.com/Sadudu/MAX1771.git
-　　git push origin master
+辉光钟升压模块，效率可以达到84%
+具体设计过程参考https://zhuanlan.zhihu.com/p/37213569
